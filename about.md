@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a freelance programmer based in Haslemere, Surrey, UK. Between projects, my partner and enjoy travelling the world. We keep a travel blog called Bike Hippies which, despite the name, doesn't always involve bicycles.
+
+I'm a keen photographer too - mostly a mix of landscape, travel, wildlife, long exposure and the occasional weird experiment. I also enjoy cycling, trail running and orienteering.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[helen@rrdlabs.co.uk](mailto:helen@rrdlabs.co.uk)
