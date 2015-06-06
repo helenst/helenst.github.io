@@ -4,8 +4,6 @@ title: Work
 permalink: /work/
 ---
 
-# Work
-
 I'm a freelance programmer based in Haslemere, Surrey, UK.
 
 I have over a decade of experience and have worked with a lot of different technologies
