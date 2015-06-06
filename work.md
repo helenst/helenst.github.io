@@ -14,7 +14,7 @@ people who value and uphold high standards.
 I'm usually open to new and interesting opportunities so do please get in touch if you have a
 project I may be able to help with.
 
-Please see [my full CV](cv.md) for details of past work.
+Please see [my full CV](/cv/) for details of past work.
 
 Personal projects
 
