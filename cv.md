@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV: Helen Sherwood-Taylor
+title: CV\: Helen Sherwood-Taylor
 permalink: /cv/
 ---
 
