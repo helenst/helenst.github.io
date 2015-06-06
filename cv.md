@@ -42,7 +42,7 @@ I enjoy working with creative and intelligent people, building on open software 
 
 ## Freelance Projects
 
-### Potato - Back end development (2014-2015)
+### [Potato](https://p.ota.to/) - Back end development (2014-2015)
 
 Building new products and improving existing ones using Django and App Engine.
 
@@ -51,18 +51,18 @@ Building new products and improving existing ones using Django and App Engine.
 * RESTful API design / implementation (Django REST Framework)
 * both SQL and NoSQL database design
 
-### Pointbank (2013-14)
+### [Pointbank](http://pointbank.co.uk/) (2013-14)
 
 Technical refresh of Pointbank, a corporate incentives platform built in Django.
 
-* Architected and developed an activity feed based on Activity Streams standard.
+* Architected and developed an activity feed based on [Activity Streams](http://activitystrea.ms/) standard.
 * Rebuilt the front end using Sass for improved extensibility
 * Built custom authentication backend for bespoke client integration
 * Developed Wistia video integration
 * As a separate project for client, built a themeable multitenanted microsite generator for event promotion and registration.
 * Key technologies: Django, Python, Celery, PostgreSQL
 
-### Paper Shaker (by PhotoBox) (2012 – 2013)
+### [Paper Shaker](http://paper-shaker.com/) (by PhotoBox) (2012 – 2013)
 
 Front end development on a new personalised card creation site for PhotoBox.
 
@@ -72,13 +72,13 @@ Front end development on a new personalised card creation site for PhotoBox.
 * Consulted on and implemented responsive designs
 * Collaborated on and worked with RESTful APIs
 
-### BBC Weather (2011-12)
+### [BBC Weather](http://www.bbc.co.uk/weather/2647365) (2011-12)
 
 Development of the new BBC Weather website. Initial three month contract, returned twice for further work.
 
-* Weather Map: Integrated existing OpenLayers map component, implemented successful optimizations to improve performance.
+* [Weather Map](http://www.bbc.co.uk/weather/2643743#maps): Integrated existing OpenLayers map component, implemented successful optimizations to improve performance.
 * Daily forecast: tab switching, CSS3 animations, Ajax loading and caching of detailed hourly forecasts
-* Tide tables: progressively enhanced hierarchical page featuring High Charts graphs
+* [Tide tables](http://www.bbc.co.uk/weather/coast_and_sea/tide_tables): progressively enhanced hierarchical page featuring High Charts graphs
 * Worked closely with service layer team to define web service interfaces
 * BDD (Cucumber / Capybara), TDD, pair programming, peer code reviews
 
@@ -86,8 +86,8 @@ Development of the new BBC Weather website. Initial three month contract, return
 
 Worked on several nature, history and science websites.
 
-* Developed BBC Earth science website
-* Improvements to Human Planet Explorer, Space, History of Royal Weddings and Battle of Britain sites
+* Developed [BBC Earth] science website
+* Improvements to [Human Planet Explorer](http://www.bbc.co.uk/nature/humanplanetexplorer), [Space](http://www.bbc.co.uk/science/space/), [History of Royal Weddings](http://www.bbc.co.uk/history/royal_weddings) and [Battle of Britain](http://www.bbc.co.uk/history/battle_of_britain) sites
 * Created core modules and libraries from common functionality across several sites
 
 ### Linden Lab - International Billing System (2010)
@@ -106,16 +106,16 @@ Worked on an early stage project dealing with social and personalisation feature
 ### Previous projects
 
 * IPC Media - improvements to high profile magazine websites.
-* EMMA - developed significant features for medical management system (now part of Qinec)
-* huBarcode - Python library for bar code creation
-* AJAX learning games for nursing students (Millionaire and Matching Game) plus Paypal integration
+* EMMA - developed significant features for medical management system (now part of [Qinec](http://www.qinec.com/))
+* [huBarcode](https://github.com/hudora/huBarcode) - Python library for bar code creation
+* AJAX learning games for nursing students ([Millionaire](http://freenursetutor.com/game-room/millionaire-game.html) and [Matching Game](http://freenursetutor.com/game-room/match-games.html)) plus Paypal integration
 * So VPS - Python systems and website development for hosting company. Full development of company website and user control panel using the PXL engine, Linux sysadmin, Nagios plugins, system health monitoring, Paypal integration.
 
 ## Personal Projects
 
-* Map Thing is a route planning tool built on Google Maps and Open Street Map APIs. It displays distance and elevation information and allows for routes to be edited and routing methods to be changed.
-* Designed and built personal and company sites, using the Django-based Mezzanine CMS.
-* A few other small projects on my Github profile
+* [Map Thing](http://helen.st/mapthing) is a route planning tool built on Google Maps and Open Street Map APIs. It displays distance and elevation information and allows for routes to be edited and routing methods to be changed.
+* Designed and built [personal](http://helen.st/) and [company](http://codepixies.co.uk/) sites, using the Django-based Mezzanine CMS.
+* A few other small projects on [my Github profile](https://github.com/helenst)
 
 ## Previous employment
 
@@ -146,6 +146,6 @@ A-Levels (1997) - Mathematics, Physics, Chemistry, Biology - all Grade A
 
 Successfully completed the following courses through online learning portal Coursera:
 
-* Machine Learning - 2012
-* Functional Programming Principles in Scala - 2013
-* Data Analysis and Statistical Inference - 2014
+* [Machine Learning](https://www.coursera.org/course/ml) - 2012
+* [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun) - 2013
+* [Data Analysis and Statistical Inference](https://www.coursera.org/course/statistics) - 2014
