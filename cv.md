@@ -18,26 +18,26 @@ I enjoy working with creative and intelligent people, building on open software 
 ## Skills
 
 ### Server side technologies
-Python (2 and 3), Django
-Linux / Unix command line, GNU tools, bash, server admin
-Python tools - virtualenv, pip, ansible, south, fabric
-REST web service API design, development & use
-SQL databases (PostgreSQL, MySQL, SQLite)
+* Python (2 and 3), Django
+* Linux / Unix command line, GNU tools, bash, server admin
+* Python tools - virtualenv, pip, ansible, south, fabric
+* REST web service API design, development & use
+* SQL databases (PostgreSQL, MySQL, SQLite)
 
 ### Browser technologies
-Javascript - AJAX, JQuery, RequireJS
-CSS, LESS, SASS, Compass, Bootstrap
-Cross browser concerns, progressive enhancement, accessibility
-HTML5 features - geolocation, websockets (socket.io)
-Responsive web development
-Mapping toolkits (Google Maps, OpenLayers, Leaflet)
+* Javascript - AJAX, JQuery, RequireJS
+* CSS, LESS, SASS, Compass, Bootstrap
+* Cross browser concerns, progressive enhancement, accessibility
+* HTML5 features - geolocation, websockets (socket.io)
+* Responsive web development
+* Mapping toolkits (Google Maps, OpenLayers, Leaflet)
 
 ### Tools & Techniques
-Agile, Scrum, TDD, BDD, CI
-Collaborative tools - Trello, Jira, github, GNU screen
-Remote working, pair programming, peer code review
-Sphinx/RST documentation
-Source control - git, mercurial, Subversion
+* Agile, Scrum, TDD, BDD, CI
+* Collaborative tools - Trello, Jira, github, GNU screen
+* Remote working, pair programming, peer code review
+* Sphinx/RST documentation
+* Source control - git, mercurial, Subversion
 
 
 ## Freelance Projects
@@ -46,58 +46,58 @@ Source control - git, mercurial, Subversion
 
 Building new products and improving existing ones using Django and App Engine.
 
-Optimisation and performance enhancements
-TDD, continuous integration
-RESTful API design / implementation (Django REST Framework)
-both SQL and NoSQL database design
+* Optimisation and performance enhancements
+* TDD, continuous integration
+* RESTful API design / implementation (Django REST Framework)
+* both SQL and NoSQL database design
 
 ### Pointbank (2013-14)
 
 Technical refresh of Pointbank, a corporate incentives platform built in Django.
 
-Architected and developed an activity feed based on Activity Streams standard.
-Rebuilt the front end using Sass for improved extensibility
-Built custom authentication backend for bespoke client integration
-Developed Wistia video integration
-As a separate project for client, built a themeable multitenanted microsite generator for event promotion and registration.
-Key technologies: Django, Python, Celery, PostgreSQL
+* Architected and developed an activity feed based on Activity Streams standard.
+* Rebuilt the front end using Sass for improved extensibility
+* Built custom authentication backend for bespoke client integration
+* Developed Wistia video integration
+* As a separate project for client, built a themeable multitenanted microsite generator for event promotion and registration.
+* Key technologies: Django, Python, Celery, PostgreSQL
 
 ### Paper Shaker (by PhotoBox) (2012 – 2013)
 
 Front end development on a new personalised card creation site for PhotoBox.
 
-Architected and led front end development
-HTML5, CSS3 and browser compatibility
-Key technologies: JQuery, RequireJS, SASS, Compass
-Consulted on and implemented responsive designs
-Collaborated on and worked with RESTful APIs
+* Architected and led front end development
+* HTML5, CSS3 and browser compatibility
+* Key technologies: JQuery, RequireJS, SASS, Compass
+* Consulted on and implemented responsive designs
+* Collaborated on and worked with RESTful APIs
 
 ### BBC Weather (2011-12)
 
 Development of the new BBC Weather website. Initial three month contract, returned twice for further work.
 
-Weather Map: Integrated existing OpenLayers map component, implemented successful optimizations to improve performance.
-Daily forecast: tab switching, CSS3 animations, Ajax loading and caching of detailed hourly forecasts
-Tide tables: progressively enhanced hierarchical page featuring High Charts graphs
-Worked closely with service layer team to define web service interfaces
-BDD (Cucumber / Capybara), TDD, pair programming, peer code reviews
+* Weather Map: Integrated existing OpenLayers map component, implemented successful optimizations to improve performance.
+* Daily forecast: tab switching, CSS3 animations, Ajax loading and caching of detailed hourly forecasts
+* Tide tables: progressively enhanced hierarchical page featuring High Charts graphs
+* Worked closely with service layer team to define web service interfaces
+* BDD (Cucumber / Capybara), TDD, pair programming, peer code reviews
 
 ### BBC Knowledge (2010-11)
 
 Worked on several nature, history and science websites.
 
-Developed BBC Earth science website
-Improvements to Human Planet Explorer, Space, History of Royal Weddings and Battle of Britain sites
-Created core modules and libraries from common functionality across several sites
+* Developed BBC Earth science website
+* Improvements to Human Planet Explorer, Space, History of Royal Weddings and Battle of Britain sites
+* Created core modules and libraries from common functionality across several sites
 
 ### Linden Lab - International Billing System (2010)
 
 Django webservice development on a scalable billing engine for Second Life's payment systems.
 
-Designed, developed and consumed Python / Django RESTful webservices
-Focus on scalability, concurrency and security
-Linux sysadmin & bash scripting
-TDD, pair programming, peer code review, close collaboration with QA, Scrum / Agile
+* Designed, developed and consumed Python / Django RESTful webservices
+* Focus on scalability, concurrency and security
+* Linux sysadmin & bash scripting
+* TDD, pair programming, peer code review, close collaboration with QA, Scrum / Agile
 
 ### BBC Social (2008-2009)
 
@@ -105,17 +105,17 @@ Worked on an early stage project dealing with social and personalisation feature
 
 ### Previous projects
 
-IPC Media - improvements to high profile magazine websites.
-EMMA - developed significant features for medical management system (now part of Qinec)
-huBarcode - Python library for bar code creation
-AJAX learning games for nursing students (Millionaire and Matching Game) plus Paypal integration
-So VPS - Python systems and website development for hosting company. Full development of company website and user control panel using the PXL engine, Linux sysadmin, Nagios plugins, system health monitoring, Paypal integration.
+* IPC Media - improvements to high profile magazine websites.
+* EMMA - developed significant features for medical management system (now part of Qinec)
+* huBarcode - Python library for bar code creation
+* AJAX learning games for nursing students (Millionaire and Matching Game) plus Paypal integration
+* So VPS - Python systems and website development for hosting company. Full development of company website and user control panel using the PXL engine, Linux sysadmin, Nagios plugins, system health monitoring, Paypal integration.
 
 ## Personal Projects
 
-Map Thing is a route planning tool built on Google Maps and Open Street Map APIs. It displays distance and elevation information and allows for routes to be edited and routing methods to be changed.
-Designed and built my personal site and company site, using the Django-based Mezzanine CMS.
-A few other small projects on my Github profile
+* Map Thing is a route planning tool built on Google Maps and Open Street Map APIs. It displays distance and elevation information and allows for routes to be edited and routing methods to be changed.
+* Designed and built personal and company sites, using the Django-based Mezzanine CMS.
+* A few other small projects on my Github profile
 
 ## Previous employment
 
@@ -146,6 +146,6 @@ A-Levels (1997) - Mathematics, Physics, Chemistry, Biology - all Grade A
 
 Successfully completed the following courses through online learning portal Coursera:
 
-Machine Learning - 2012
-Functional Programming Principles in Scala - 2013
-Data Analysis and Statistical Inference - 2014
+* Machine Learning - 2012
+* Functional Programming Principles in Scala - 2013
+* Data Analysis and Statistical Inference - 2014
