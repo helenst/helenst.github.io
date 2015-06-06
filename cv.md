@@ -138,9 +138,9 @@ Visual C++ / MFC full life cycle development of bespoke broadcast data display s
  
 ## Education
 
-Open University (2000-2004) BSc(Hons) Mathematical Sciences - First Class Honours
-A-Levels (1997) - Mathematics, Physics, Chemistry, Biology - all Grade A
-9 GCSEs (1995), including seven at grade A/A*
+* Open University (2000-2004) BSc(Hons) Mathematical Sciences - First Class Honours
+* A-Levels (1997) - Mathematics, Physics, Chemistry, Biology - all Grade A
+* 9 GCSEs (1995), including seven at grade A/A*
 
 ### Coursera
 
