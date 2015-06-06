@@ -152,11 +152,18 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  background: $darkGray;
+  color: $white;
+  a {
+  	color: $white;
+  	&:hover {
+  		color: $orange;
+  	}
+  }
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
