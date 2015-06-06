@@ -1,3 +1,9 @@
+---
+layout: page
+title: Work
+permalink: /work/
+---
+
 # Work
 
 I'm a freelance programmer based in Haslemere, Surrey, UK.
