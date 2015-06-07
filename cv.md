@@ -2,6 +2,7 @@
 layout: page
 title: Helen Sherwood-Taylor
 permalink: /cv/
+redirect_from: /work/cv/
 ---
 
 
