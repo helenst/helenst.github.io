@@ -115,8 +115,7 @@ Worked on an early stage project dealing with social and personalisation feature
 ## Personal Projects
 
 * [Map Thing](http://helen.st/mapthing) is a route planning tool built on Google Maps and Open Street Map APIs. It displays distance and elevation information and allows for routes to be edited and routing methods to be changed.
-* Designed and built [personal](http://helen.st/) and [company](http://codepixies.co.uk/) sites, using the Django-based Mezzanine CMS.
-* A few other small projects on [my Github profile](https://github.com/helenst)
+* Various open source contributions and small projects on [my Github profile](https://github.com/helenst)
 
 ## Previous employment
 
