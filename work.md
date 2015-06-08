@@ -18,5 +18,5 @@ Please see [my full CV](/cv/) for details of past work.
 
 ## Personal projects
 
-* [Map Thing](http://helen.st/mapthing/) is a route planner which supports routing through Google or Open Street Map. I created it because I wanted to plan routes along bridleways and footpaths, something which most online mappers don't support. I use it frequently when planning runs and bike rides.
+* [Map Thing](http://mapthing.helen.st/) is a route planner which supports routing through Google or Open Street Map. I created it because I wanted to plan routes along bridleways and footpaths, something which most online mappers don't support. I use it frequently when planning runs and bike rides.
 * [Train Times](https://github.com/helenst/train-times-display) - a Raspberry Pi / LCD display project written in Python. It lives in my hallway and keeps me informed of when the next trains are departing. Incredibly useful and helps me get out of the house on time!

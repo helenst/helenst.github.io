@@ -114,7 +114,7 @@ Worked on an early stage project dealing with social and personalisation feature
 
 ## Personal Projects
 
-* [Map Thing](http://helen.st/mapthing) is a route planning tool built on Google Maps and Open Street Map APIs. It displays distance and elevation information and allows for routes to be edited and routing methods to be changed.
+* [Map Thing](http://mapthing.helen.st/) is a route planning tool built on Google Maps and Open Street Map APIs. It displays distance and elevation information and allows for routes to be edited and routing methods to be changed.
 * Various open source contributions and small projects on [my Github profile](https://github.com/helenst)
 
 ## Previous employment
