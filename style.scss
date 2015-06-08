@@ -154,12 +154,23 @@ img {
   margin-bottom: 50px;
   background: $darkGray;
   color: $white;
-  a {
-  	color: $white;
-  	&:hover {
-  		color: $orange;
-  	}
+  h1 {
+    font-size: 40px;
   }
+  a {
+    color: $white;
+    .dot {
+      color: $orange;
+    }
+
+    &:hover {
+      color: $orange;
+      .dot{
+        color: $white;
+      }
+    }
+  }
+
 }
 
 .masthead {
