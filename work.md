@@ -16,6 +16,13 @@ project I may be able to help with.
 
 Please see [my full CV](/cv/) for details of past work.
 
+## Talks
+* [Managing Mocks](http://slides.com/helenst/managingmocks2015#/) - PyCon UK, September 2015 ([video](https://www.youtube.com/watch?v=haXUaGTp8Bc)) - a look at mocking in Python
+
+## Other things
+* Organiser, [Django Girls Coventry](https://djangogirls.org/coventry/) - organised beginners' coding workshop for 30 women at PyCon UK
+* Coach, [Django Girls Cardiff](https://djangogirls.org/cardiff/) - mentored two beginner programmers
+
 ## Personal projects
 
 * [Map Thing](http://mapthing.helen.st/) is a route planner which supports routing through Google or Open Street Map. I created it because I wanted to plan routes along bridleways and footpaths, something which most online mappers don't support. I use it frequently when planning runs and bike rides.
