@@ -43,7 +43,7 @@ I enjoy working with creative and intelligent people, building on open software 
 * Source control - git, mercurial, Subversion
 * Deployment - fabric, ansible, puppet
 
-## Freelance Projects
+## Previous Work
 
 ### [University College London](http://www.ucl.ac.uk/) (2015)
 
@@ -99,9 +99,15 @@ Scalable, concurrent and secure Django webservices running a billing engine for 
 Worked on several nature, history and science websites including [BBC Earth](http://www.bbc.co.uk/science/earth/) science website, [Human Planet Explorer](http://www.bbc.co.uk/nature/humanplanetexplorer) and [Space](http://www.bbc.co.uk/science/space/), bringing the common functionality of multiple sites into common libraries.
 
 ### Previous projects
-* *Linden Lab International Billing System* (2010) - Scalable, concurrent and secure Django webservices for Second Life billing engine. Lots of Linux scripting / sysadmin plus a heavy element of TDD, pair programming and peer code review as well as close collaboration with QA.
-* *BBC Social* (2008-9) - Prototype work around social and personalisation features for the BBC platform - RESTful webservices, Twitter (OAuth) and Facebook integration.
-* *EMMA* (2006-7) - developed significant features for medical management system which eventually became the [Qinec](http://www.qinec.com/) platform
+* __Linden Lab International Billing System__ (2010) - Scalable, concurrent and secure Django webservices for Second Life billing engine. Lots of Linux scripting / sysadmin plus a heavy element of TDD, pair programming and peer code review as well as close collaboration with QA.
+* __BBC Social__ (2008-9) - Prototype work around social and personalisation features for the BBC platform - RESTful webservices, Twitter (OAuth) and Facebook integration.
+* __EMMA__ (2006-7) - developed significant features for medical management system which eventually became the [Qinec](http://www.qinec.com/) platform
+
+### Previous employment
+* __Volantis Systems Ltd__ (2005-6) - development of bespoke Java/J2EE/Struts mobile websites
+* __Mintel International Group Ltd__ (2003-5) - Unix / web development - using C++, XSLT, HTML, CSS, Javascript, Python with open source tools (Apache, MySQL, gcc, cvs, gdb). Wrote a discussion / collaboration system used on several of Mintel’s sites, and an incremental indexer which resulted in huge time savings on reindexing large databases.
+* __Albany Software Ltd__ (2001-3) - Multi-platform C++ development of business software core components. Improved inhouse database query times by several hundred times.
+* __Gee Broadcast Systems Ltd__ (1999-2001) - Visual C++ / MFC development of bespoke broadcast data display software including a race course display system, an on screen timer used in the Winter Olympics 2002 and a live football results service for ITV.
 
 
 ## Personal Projects
@@ -109,24 +115,6 @@ Worked on several nature, history and science websites including [BBC Earth](htt
 * [Map Thing](http://mapthing.helen.st/) is a route planning tool built on Google Maps and Open Street Map APIs. It displays distance and elevation information and allows for routes to be edited and routing methods to be changed.
 * Various open source contributions and small projects on [my Github profile](https://github.com/helenst)
 
-
-## Previous employment
-
-### Volantis Systems Ltd. (2005-2006) - Managed Services Developer
-
-Full lifecycle development of bespoke Java/J2EE/Struts mobile websites for market leading clients.
-
-### Mintel International Group Ltd.(2003-2005) - Software Developer
-
-Unix and web development - using C++, XSLT, HTML, CSS, Javascript, Python with open source tools (Apache, MySQL, gcc, cvs, gdb). Wrote a discussion / collaboration system used on several of Mintel’s sites, and an incremental indexer which resulted in huge time savings on reindexing large databases.
-
-### Albany Software Ltd. (2001-2003) - Systems Developer
-
-Multi-platform C++ development of business software core components, including the company's inhouse database whose query times I improved by a factor of several hundred times. Developed a bank account validation engine using embedded Python to allow extensible scripting.
-
-### Gee Broadcast Systems Ltd. (1999-2001) - Software Developer
-
-Visual C++ / MFC full life cycle development of bespoke broadcast data display software including a race course display system, an on screen timer used in the Winter Olympics 2002 and a live football results service for ITV.
 
  
 ## Education
