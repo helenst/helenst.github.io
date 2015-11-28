@@ -19,11 +19,12 @@ I enjoy working with creative and intelligent people, building on open software 
 ## Skills
 
 ### Server side technologies
-* Python (2 and 3), Django
+* Python (2 and 3), Django, Flask
 * Linux / Unix command line, GNU tools, bash, server admin
-* Python tools - virtualenv, pip, ansible, south, fabric
-* REST web service API design, development & use
-* SQL databases (PostgreSQL, MySQL, SQLite)
+* Task management and scheduling - RQ, celery
+* RESTful web services (Django Rest Framework)
+* SQL databases (PostgreSQL, MySQL, SQLite, Oracle)
+* API integrations - Twitter, GitHub, OAuth
 
 ### Browser technologies
 * Javascript - AJAX, JQuery, RequireJS
@@ -35,13 +36,27 @@ I enjoy working with creative and intelligent people, building on open software 
 
 ### Tools & Techniques
 * Agile, Scrum, TDD, BDD, CI
+* Testing - tox, pytest, webtest, selenium, mocking
 * Collaborative tools - Trello, Jira, github, GNU screen
 * Remote working, pair programming, peer code review
 * Sphinx/RST documentation
 * Source control - git, mercurial, Subversion
-
+* Deployment - fabric, ansible, puppet
 
 ## Freelance Projects
+
+### [University College London](http://www.ucl.ac.uk/) (2015)
+
+Worked alongside [Research IT Services](https://www.ucl.ac.uk/isd/services/research-it) building web based tools to catalogue research software output, encourage better software practice among researchers and improve internal processes for working with computing resources.
+
+* Full stack solo Django development of new product
+* Integrations with GitHub, BitBucket
+* Shibboleth (SAML) authentication
+* Testing with pytest / webtest / selenium
+* Task queues with redis / rq / rqscheduler
+* Working with Oracle databases
+* Providing and consuming REST APIs
+* Puppet deployment
 
 ### [Potato](https://p.ota.to/) - Back end development (2014-2015)
 
