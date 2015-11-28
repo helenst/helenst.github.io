@@ -100,11 +100,7 @@ Development of the new BBC Weather website. Initial three month contract, return
 
 ### BBC Knowledge (2010-11)
 
-Worked on several nature, history and science websites.
-
-* Developed [BBC Earth] science website
-* Improvements to [Human Planet Explorer](http://www.bbc.co.uk/nature/humanplanetexplorer), [Space](http://www.bbc.co.uk/science/space/), [History of Royal Weddings](http://www.bbc.co.uk/history/royal_weddings) and [Battle of Britain](http://www.bbc.co.uk/history/battle_of_britain) sites
-* Created core modules and libraries from common functionality across several sites
+Worked on several nature, history and science websites including [BBC Earth](http://www.bbc.co.uk/science/earth/) science website, [Human Planet Explorer](http://www.bbc.co.uk/nature/humanplanetexplorer) and [Space](http://www.bbc.co.uk/science/space/), bringing the common functionality of multiple sites into common libraries.
 
 ### Linden Lab - International Billing System (2010)
 
