@@ -90,32 +90,25 @@ Development of the new BBC Weather website. Initial three month contract, return
 * Daily forecast: tab switching, CSS3 animations, Ajax loading and caching of detailed hourly forecasts
 * [Tide tables](http://www.bbc.co.uk/weather/coast_and_sea/tide_tables): progressively enhanced hierarchical page featuring High Charts graphs
 * Worked closely with service layer team to define web service interfaces
-* BDD (Cucumber / Capybara), TDD, pair programming, peer code reviews
+* BDD (Cucumber / Capybara), TDD, pair ### Linden Lab - International Billing System (2010)
+
+Scalable, concurrent and secure Django webservices running a billing engine for Second Life's payment systems. This made the most of my Linux sysadmin and scripting skills and involved a heavy element of TDD, pair programming and peer code review as well as close collaboration with QA.programming, peer code reviews
 
 ### BBC Knowledge (2010-11)
 
 Worked on several nature, history and science websites including [BBC Earth](http://www.bbc.co.uk/science/earth/) science website, [Human Planet Explorer](http://www.bbc.co.uk/nature/humanplanetexplorer) and [Space](http://www.bbc.co.uk/science/space/), bringing the common functionality of multiple sites into common libraries.
 
-### Linden Lab - International Billing System (2010)
-
-Scalable, concurrent and secure Django webservices running a billing engine for Second Life's payment systems. This made the most of my Linux sysadmin and scripting skills and involved a heavy element of TDD, pair programming and peer code review as well as close collaboration with QA.
-
-### BBC Social (2008-2009)
-
-Worked on an early stage project dealing with social and personalisation features for the BBC platform - RESTful webservices, Twitter (OAuth) and Facebook integration and working within an Agile/Scrum environment.
-
 ### Previous projects
+* *Linden Lab International Billing System* (2010) - Scalable, concurrent and secure Django webservices for Second Life billing engine. Lots of Linux scripting / sysadmin plus a heavy element of TDD, pair programming and peer code review as well as close collaboration with QA.
+* *BBC Social* (2008-9) - Prototype work around social and personalisation features for the BBC platform - RESTful webservices, Twitter (OAuth) and Facebook integration.
+* *EMMA* (2006-7) - developed significant features for medical management system which eventually became the [Qinec](http://www.qinec.com/) platform
 
-* IPC Media - improvements to high profile magazine websites.
-* EMMA - developed significant features for medical management system (now part of [Qinec](http://www.qinec.com/))
-* [huBarcode](https://github.com/hudora/huBarcode) - Python library for bar code creation
-* AJAX learning games for nursing students ([Millionaire](http://freenursetutor.com/game-room/millionaire-game.html) and [Matching Game](http://freenursetutor.com/game-room/match-games.html)) plus Paypal integration
-* So VPS - Python systems and website development for hosting company. Full development of company website and user control panel using the PXL engine, Linux sysadmin, Nagios plugins, system health monitoring, Paypal integration.
 
 ## Personal Projects
 
 * [Map Thing](http://mapthing.helen.st/) is a route planning tool built on Google Maps and Open Street Map APIs. It displays distance and elevation information and allows for routes to be edited and routing methods to be changed.
 * Various open source contributions and small projects on [my Github profile](https://github.com/helenst)
+
 
 ## Previous employment
 
