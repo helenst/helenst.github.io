@@ -113,8 +113,12 @@ Worked on several nature, history and science websites including [BBC Earth](htt
 ## Personal Projects
 
 * [Map Thing](http://mapthing.helen.st/) is a route planning tool built on Google Maps and Open Street Map APIs. It displays distance and elevation information and allows for routes to be edited and routing methods to be changed.
-* Various open source contributions and small projects on [my Github profile](https://github.com/helenst)
 
+
+## Open Source / Community
+* I am heavily involved with [Django Girls](https://djangogirls.org), a series of workshops aimed at encouraging more women to learn to code. I'm a core committer on the tutorial and website and have coached at and organized multiple events.
+* I am enthusiastic about contributing to open source and proficient with git and github - I have contributed to various open source projects which can be seen on my [my Github profile](https://github.com/helenst)
+* Talk: [Managing Mocks](http://slides.com/helenst/managingmocks2015#/) - PyCon UK, 2015 - a look at mocking in Python
 
  
 ## Education
