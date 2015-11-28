@@ -125,15 +125,15 @@ Full lifecycle development of bespoke Java/J2EE/Struts mobile websites for marke
 
 ### Mintel International Group Ltd.(2003-2005) - Software Developer
 
-Unix-based websites and libraries using C++, XSLT, HTML, CSS, Javascript, Python with open source tools (Apache, MySQL, gcc, cvs, gdb). Wrote a discussion / collaboration system used on several of Mintel’s sites, and an incremental indexer which enabled huge time savings on reindexing a large and dynamic database.
+Unix and web development - using C++, XSLT, HTML, CSS, Javascript, Python with open source tools (Apache, MySQL, gcc, cvs, gdb). Wrote a discussion / collaboration system used on several of Mintel’s sites, and an incremental indexer which resulted in huge time savings on reindexing large databases.
 
 ### Albany Software Ltd. (2001-2003) - Systems Developer
 
-Multi-platform C++ development of business software. In charge of developing and maintaining core components, including the company's inhouse database, whose query times I improved by a factor of several hundred times. I also developed a bank account validation engine using embedded Python to allow extensible scripting.
+Multi-platform C++ development of business software core components, including the company's inhouse database whose query times I improved by a factor of several hundred times. Developed a bank account validation engine using embedded Python to allow extensible scripting.
 
 ### Gee Broadcast Systems Ltd. (1999-2001) - Software Developer
 
-Visual C++ / MFC full life cycle development of bespoke broadcast data display software, including a race course display system, an on screen timer used in the Winter Olympics 2002 and a live football results service for ITV's “Goal Rush” programme.
+Visual C++ / MFC full life cycle development of bespoke broadcast data display software including a race course display system, an on screen timer used in the Winter Olympics 2002 and a live football results service for ITV.
 
  
 ## Education
