@@ -98,12 +98,7 @@ Worked on several nature, history and science websites including [BBC Earth](htt
 
 ### Linden Lab - International Billing System (2010)
 
-Django webservice development on a scalable billing engine for Second Life's payment systems.
-
-* Designed, developed and consumed Python / Django RESTful webservices
-* Focus on scalability, concurrency and security
-* Linux sysadmin & bash scripting
-* TDD, pair programming, peer code review, close collaboration with QA, Scrum / Agile
+Scalable, concurrent and secure Django webservices running a billing engine for Second Life's payment systems. This made the most of my Linux sysadmin and scripting skills and involved a heavy element of TDD, pair programming and peer code review as well as close collaboration with QA.
 
 ### BBC Social (2008-2009)
 
