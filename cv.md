@@ -80,13 +80,7 @@ Technical refresh of Pointbank, a corporate incentives platform built in Django.
 
 ### [Paper Shaker](http://paper-shaker.com/) (by PhotoBox) (2012 – 2013)
 
-Front end development on a new personalised card creation site for PhotoBox.
-
-* Architected and led front end development
-* HTML5, CSS3 and browser compatibility
-* Key technologies: JQuery, RequireJS, SASS, Compass
-* Consulted on and implemented responsive designs
-* Collaborated on and worked with RESTful APIs
+Architected and led front end development for PhotoBox's personalised card site - a responsive site built with HTML5, CSS, SASS, Compass and requirejs
 
 ### [BBC Weather](http://www.bbc.co.uk/weather/2647365) (2011-12)
 
