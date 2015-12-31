@@ -19,11 +19,12 @@ I enjoy working with creative and intelligent people, building on open software 
 ## Skills
 
 ### Server side technologies
-* Python (2 and 3), Django
+* Python (2 and 3), Django, Flask
 * Linux / Unix command line, GNU tools, bash, server admin
-* Python tools - virtualenv, pip, ansible, south, fabric
-* REST web service API design, development & use
-* SQL databases (PostgreSQL, MySQL, SQLite)
+* Task management and scheduling - RQ, celery
+* RESTful web services (Django Rest Framework)
+* SQL databases (PostgreSQL, MySQL, SQLite, Oracle)
+* API integrations - Twitter, GitHub, OAuth
 
 ### Browser technologies
 * Javascript - AJAX, JQuery, RequireJS
@@ -35,13 +36,27 @@ I enjoy working with creative and intelligent people, building on open software 
 
 ### Tools & Techniques
 * Agile, Scrum, TDD, BDD, CI
+* Testing - tox, pytest, webtest, selenium, mocking
 * Collaborative tools - Trello, Jira, github, GNU screen
 * Remote working, pair programming, peer code review
 * Sphinx/RST documentation
 * Source control - git, mercurial, Subversion
+* Deployment - fabric, ansible, puppet
 
+## Previous Work
 
-## Freelance Projects
+### [University College London](http://www.ucl.ac.uk/) (2015)
+
+Worked alongside [Research IT Services](https://www.ucl.ac.uk/isd/services/research-it) building web based tools to catalogue research software output, encourage better software practice among researchers and improve internal processes for working with computing resources.
+
+* Full stack solo Django development of new product
+* Integrations with GitHub, BitBucket
+* Shibboleth (SAML) authentication
+* Testing with pytest / webtest / selenium
+* Task queues with redis / rq / rqscheduler
+* Working with Oracle databases
+* Providing and consuming REST APIs
+* Puppet deployment
 
 ### [Potato](https://p.ota.to/) - Back end development (2014-2015)
 
@@ -65,13 +80,7 @@ Technical refresh of Pointbank, a corporate incentives platform built in Django.
 
 ### [Paper Shaker](http://paper-shaker.com/) (by PhotoBox) (2012 – 2013)
 
-Front end development on a new personalised card creation site for PhotoBox.
-
-* Architected and led front end development
-* HTML5, CSS3 and browser compatibility
-* Key technologies: JQuery, RequireJS, SASS, Compass
-* Consulted on and implemented responsive designs
-* Collaborated on and worked with RESTful APIs
+Architected and led front end development for PhotoBox's personalised card site - a responsive site built with HTML5, CSS, SASS, Compass and requirejs
 
 ### [BBC Weather](http://www.bbc.co.uk/weather/2647365) (2011-12)
 
@@ -81,59 +90,35 @@ Development of the new BBC Weather website. Initial three month contract, return
 * Daily forecast: tab switching, CSS3 animations, Ajax loading and caching of detailed hourly forecasts
 * [Tide tables](http://www.bbc.co.uk/weather/coast_and_sea/tide_tables): progressively enhanced hierarchical page featuring High Charts graphs
 * Worked closely with service layer team to define web service interfaces
-* BDD (Cucumber / Capybara), TDD, pair programming, peer code reviews
+* BDD (Cucumber / Capybara), TDD, pair ### Linden Lab - International Billing System (2010)
+
+Scalable, concurrent and secure Django webservices running a billing engine for Second Life's payment systems. This made the most of my Linux sysadmin and scripting skills and involved a heavy element of TDD, pair programming and peer code review as well as close collaboration with QA.programming, peer code reviews
 
 ### BBC Knowledge (2010-11)
 
-Worked on several nature, history and science websites.
-
-* Developed [BBC Earth] science website
-* Improvements to [Human Planet Explorer](http://www.bbc.co.uk/nature/humanplanetexplorer), [Space](http://www.bbc.co.uk/science/space/), [History of Royal Weddings](http://www.bbc.co.uk/history/royal_weddings) and [Battle of Britain](http://www.bbc.co.uk/history/battle_of_britain) sites
-* Created core modules and libraries from common functionality across several sites
-
-### Linden Lab - International Billing System (2010)
-
-Django webservice development on a scalable billing engine for Second Life's payment systems.
-
-* Designed, developed and consumed Python / Django RESTful webservices
-* Focus on scalability, concurrency and security
-* Linux sysadmin & bash scripting
-* TDD, pair programming, peer code review, close collaboration with QA, Scrum / Agile
-
-### BBC Social (2008-2009)
-
-Worked on an early stage project dealing with social and personalisation features for the BBC platform - RESTful webservices, Twitter (OAuth) and Facebook integration and working within an Agile/Scrum environment.
+Worked on several nature, history and science websites including [BBC Earth](http://www.bbc.co.uk/science/earth/) science website, [Human Planet Explorer](http://www.bbc.co.uk/nature/humanplanetexplorer) and [Space](http://www.bbc.co.uk/science/space/), bringing the common functionality of multiple sites into common libraries.
 
 ### Previous projects
+* __Linden Lab International Billing System__ (2010) - Scalable, concurrent and secure Django webservices for Second Life billing engine. Lots of Linux scripting / sysadmin plus a heavy element of TDD, pair programming and peer code review as well as close collaboration with QA.
+* __BBC Social__ (2008-9) - Prototype work around social and personalisation features for the BBC platform - RESTful webservices, Twitter (OAuth) and Facebook integration.
+* __EMMA__ (2006-7) - developed significant features for medical management system which eventually became the [Qinec](http://www.qinec.com/) platform
 
-* IPC Media - improvements to high profile magazine websites.
-* EMMA - developed significant features for medical management system (now part of [Qinec](http://www.qinec.com/))
-* [huBarcode](https://github.com/hudora/huBarcode) - Python library for bar code creation
-* AJAX learning games for nursing students ([Millionaire](http://freenursetutor.com/game-room/millionaire-game.html) and [Matching Game](http://freenursetutor.com/game-room/match-games.html)) plus Paypal integration
-* So VPS - Python systems and website development for hosting company. Full development of company website and user control panel using the PXL engine, Linux sysadmin, Nagios plugins, system health monitoring, Paypal integration.
+### Previous employment
+* __Volantis Systems Ltd__ (2005-6) - development of bespoke Java/J2EE/Struts mobile websites
+* __Mintel International Group Ltd__ (2003-5) - Unix / web development - using C++, XSLT, HTML, CSS, Javascript, Python with open source tools (Apache, MySQL, gcc, cvs, gdb). Wrote a discussion / collaboration system used on several of Mintel’s sites, and an incremental indexer which resulted in huge time savings on reindexing large databases.
+* __Albany Software Ltd__ (2001-3) - Multi-platform C++ development of business software core components. Improved inhouse database query times by several hundred times.
+* __Gee Broadcast Systems Ltd__ (1999-2001) - Visual C++ / MFC development of bespoke broadcast data display software including a race course display system, an on screen timer used in the Winter Olympics 2002 and a live football results service for ITV.
+
 
 ## Personal Projects
 
 * [Map Thing](http://mapthing.helen.st/) is a route planning tool built on Google Maps and Open Street Map APIs. It displays distance and elevation information and allows for routes to be edited and routing methods to be changed.
-* Various open source contributions and small projects on [my Github profile](https://github.com/helenst)
 
-## Previous employment
 
-### Volantis Systems Ltd. (2005-2006) - Managed Services Developer
-
-Full lifecycle development of bespoke Java/J2EE/Struts mobile websites for market leading clients.
-
-### Mintel International Group Ltd.(2003-2005) - Software Developer
-
-Unix-based websites and libraries using C++, XSLT, HTML, CSS, Javascript, Python with open source tools (Apache, MySQL, gcc, cvs, gdb). Wrote a discussion / collaboration system used on several of Mintel’s sites, and an incremental indexer which enabled huge time savings on reindexing a large and dynamic database.
-
-### Albany Software Ltd. (2001-2003) - Systems Developer
-
-Multi-platform C++ development of business software. In charge of developing and maintaining core components, including the company's inhouse database, whose query times I improved by a factor of several hundred times. I also developed a bank account validation engine using embedded Python to allow extensible scripting.
-
-### Gee Broadcast Systems Ltd. (1999-2001) - Software Developer
-
-Visual C++ / MFC full life cycle development of bespoke broadcast data display software, including a race course display system, an on screen timer used in the Winter Olympics 2002 and a live football results service for ITV's “Goal Rush” programme.
+## Open Source / Community
+* I am heavily involved with [Django Girls](https://djangogirls.org), a series of workshops aimed at encouraging more women to learn to code. I'm a core committer on the tutorial and website and have coached at and organized multiple events.
+* I am enthusiastic about contributing to open source and proficient with git and github - I have contributed to various open source projects which can be seen on my [my Github profile](https://github.com/helenst)
+* Talk: [Managing Mocks](http://slides.com/helenst/managingmocks2015#/) - PyCon UK, 2015 - a look at mocking in Python
 
  
 ## Education
