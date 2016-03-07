@@ -17,11 +17,14 @@ project I may be able to help with.
 Please see [my full CV](/cv/) for details of past work.
 
 ## Talks
+* [Planning a Python Event](http://slides.com/helenst/planningpython2016#/) - PyCon Namibia, January 2016
 * [Managing Mocks](http://slides.com/helenst/managingmocks2015#/) - PyCon UK, September 2015 ([video](https://www.youtube.com/watch?v=haXUaGTp8Bc)) - a look at mocking in Python
 
 ## Other things
-* Organiser, [Django Girls Coventry](https://djangogirls.org/coventry/) - organised beginners' coding workshop for 30 women at PyCon UK
-* Coach, [Django Girls Cardiff](https://djangogirls.org/cardiff/) - mentored two beginner programmers
+* Coach, [Django Girls Cardiff](https://djangogirls.org/cardiff/) and [Django Girls Sheffield](https://djangogirls.org/sheffield/) - mentoring small groups of beginner programmers.
+* Organiser, [Django Girls Windhoek](https://djangogirls.org/windhoek/) - Beginners coding workshop for 30 women at PyCon Namibia 2016
+* Organiser, [Django Girls Coventry](https://djangogirls.org/coventry/) - organised beginners' coding workshop for 30 women at PyCon UK 2015
+
 
 ## Personal projects
 
