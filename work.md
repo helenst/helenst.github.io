@@ -17,7 +17,7 @@ project I may be able to help with.
 Please see [my full CV](/cv/) for details of past work.
 
 ## Talks
-* [Planning a Python Event](http://slides.com/helenst/planningpython2016#/) - PyCon Namibia, January 2016
+* [Planning a Python Event](http://slides.com/helenst/planningpython2016#/) - PyCon Namibia, January 2016 - about planning Django Girls workshops
 * [Managing Mocks](http://slides.com/helenst/managingmocks2015#/) - PyCon UK, September 2015 ([video](https://www.youtube.com/watch?v=haXUaGTp8Bc)) - a look at mocking in Python
 
 ## Other things
