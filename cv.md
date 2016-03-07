@@ -10,7 +10,7 @@ redirect_from: /work/cv/
 
 I am a freelance programmer with over a decade of experience developing software and websites using a wide range of languages and technologies.
 
-Recent projects include a technical refresh of the Pointbank incentives platform and building key elements of the latest BBC Weather website.
+Key projects include creating research software management tools for UCL, a technical refresh of the Pointbank incentives platform and building key elements of the latest BBC Weather website.
 
 I choose to work with productive high level languages such as Python, but also have a strong background in systems development and optimisation. I am confident with the Linux command line and am experienced with front end web technologies and best practice.
 
