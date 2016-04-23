@@ -92,8 +92,8 @@ Development of the BBC Weather website. Initial three month contract, returned t
 
 ### Previous projects
 
-* __Paper Shaker(http://paper-shaker.com/)__ (by PhotoBox) (2012 – 2013) - Front end for PhotoBox's personalised card store - a responsive site using HTML5, CSS, SASS, Compass and requirejs
-* __BBC Knowledge__ (2010-11) - Worked on several nature, history and science websites including [BBC Earth](http://www.bbc.co.uk/science/earth/) science website and [Human Planet Explorer](http://www.bbc.co.uk/nature/humanplanetexplorer)
+* __[Paper Shaker](http://paper-shaker.com/)__ (by PhotoBox) (2012 – 2013) - Front end for PhotoBox's personalised card store
+* __BBC Knowledge__ (2010-11) - Nature, history and science websites including [BBC Earth](http://www.bbc.co.uk/science/earth/) science website and [Human Planet Explorer](http://www.bbc.co.uk/nature/humanplanetexplorer)
 * __Linden Lab International Billing System__ (2010) - Scalable Django services for Second Life billing engine. Linux scripting / admin, TDD, pairing and peer code review.
 * __BBC Social__ (2008-9) - Prototyping social and personalisation features for the BBC platform. RESTful webservices, Twitter (OAuth) and Facebook integration.
 * __EMMA__ (2007-7) - feature development for medical management system which is now the [Qinec](http://www.qinec.com/) platform
