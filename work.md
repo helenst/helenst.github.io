@@ -21,9 +21,8 @@ Please see [my full CV](/cv/) for details of past work.
 * [Managing Mocks](http://slides.com/helenst/managingmocks2015#/) - PyCon UK, September 2015 ([video](https://www.youtube.com/watch?v=haXUaGTp8Bc)) - a look at mocking in Python
 
 ## Other things
-* Coach, [Django Girls Cardiff](https://djangogirls.org/cardiff/) and [Django Girls Sheffield](https://djangogirls.org/sheffield/) - mentoring small groups of beginner programmers.
-* Organiser, [Django Girls Windhoek](https://djangogirls.org/windhoek/) - Beginners coding workshop for 30 women at PyCon Namibia 2016
-* Organiser, [Django Girls Coventry](https://djangogirls.org/coventry/) - organised beginners' coding workshop for 30 women at PyCon UK 2015
+* [Django Girls](https://djangogirls.org/) coach at multiple workshops - this involves mentoring small groups of beginner programmers.
+* Organised multiple Django Girls workshops including those at [PyCon Namibia](https://djangogirls.org/windhoek/) and [PyCon UK](https://djangogirls.org/coventry/) - these are beginner level workshops for around 30 women.
 
 
 ## Personal projects
