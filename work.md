@@ -23,7 +23,7 @@ Please see [my full CV](/cv/) for details of past work.
 ## Other things
 * [Django Girls](https://djangogirls.org/) coach at multiple workshops - this involves mentoring small groups of beginner programmers.
 * Organised multiple Django Girls workshops including those at [PyCon Namibia](https://djangogirls.org/windhoek/) and [PyCon UK](https://djangogirls.org/coventry/) - these are beginner level workshops for around 30 women.
-
+* If you want to see how I solve small coding puzzles, have a look at [my exercism.io profile](http://exercism.io/helenst) - I also hang out on there a lot helping others improve their Python skills.
 
 ## Personal projects
 
