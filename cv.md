@@ -49,7 +49,7 @@ I enjoy working with creative and intelligent people, building on open software 
 
 ### [University College London](http://www.ucl.ac.uk/) (2015)
 
-Worked alongside [Research IT Services](https://www.ucl.ac.uk/isd/services/research-it) building web based tools to improve processes around research software development.
+Worked alongside [Research IT Services](https://www.ucl.ac.uk/isd/services/research-it) building [RSD Dashboard](https://dashboard.rc.ucl.ac.uk), a tool for sharing and discovering research software.
 
 * Full stack Django development of new product
 * Integrations with GitHub, BitBucket
