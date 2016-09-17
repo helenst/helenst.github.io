@@ -116,7 +116,7 @@ Development of the BBC Weather website. Initial three month contract, returned t
 
 * Contributor, coach and organiser for [Django Girls](https://djangogirls.org), a series of workshops aimed at encouraging more women to learn to code.
 * Contributions to various open source projects - please see [my Github profile](https://github.com/helenst) for details.
-* Talk: [Managing Mocks](http://slides.com/helenst/managingmocks2016#/) - PyCon UK 2015 and Europython 2016 - a look at mocking in Python
+* Have given talks at several Python conferences.
 
  
 ## Education
