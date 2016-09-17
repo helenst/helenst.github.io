@@ -17,6 +17,7 @@ project I may be able to help with.
 Please see [my full CV](/cv/) for details of past work.
 
 ## Talks
+* __Taking control of Bluetooth Devices__ - PyCon UK, September 2016 ([slides](https://slides.com/helenst/ble))
 * __Managing Mocks__ - a look at mocking in Python
 	* PyCon UK, September 2015 ([video](https://www.youtube.com/watch?v=haXUaGTp8Bc), [slides](http://slides.com/helenst/managingmocks2015))
 	* Europython, July 2016 ([video](https://www.youtube.com/watch?v=Ahnw72diels), [slides](http://slides.com/helenst/managingmocks2016))
