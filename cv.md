@@ -4,8 +4,6 @@ title: Helen Sherwood-Taylor
 permalink: /cv/
 redirect_from: /work/cv/
 ---
-
-
 ## Profile
 
 Freelance programmer with over a decade of experience developing high quality software using a wide range of technologies.
@@ -114,9 +112,9 @@ Development of the BBC Weather website. Initial three month contract, returned t
 
 ## Open Source / Community
 
-* Contributor, coach and organiser for [Django Girls](https://djangogirls.org), a series of workshops aimed at encouraging more women to learn to code.
 * Contributions to various open source projects - please see [my Github profile](https://github.com/helenst) for details.
-* Have given talks at several Python conferences.
+* Volunteer for [Django Girls](https://djangogirls.org), a series of workshops aimed at encouraging more women to learn to code. I contribute to the tutorial and website, and both organise and coach at events.
+* I speak regularly at conferences all over the world, on various topics. Please see [my work page](http://helen.st/work/) for full details.
 
  
 ## Education
