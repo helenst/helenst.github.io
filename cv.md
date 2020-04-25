@@ -8,31 +8,24 @@ redirect_from: /work/cv/
 
 Freelance programmer with over two decades of experience developing high quality software using a wide range of technologies.
 
-Key projects include research software management tools for UCL, a technical refresh of the Pointbank incentives platform and building the BBC Weather website.
+Key projects include work on the Archivematica digital preservation platform, research software tools for UCL, a technical refresh of the Pointbank incentives platform and building the BBC Weather website.
 
-I choose to work with productive high level languages such as Python, but also have a strong background in systems development and optimisation. I am confident with the Linux command line and am experienced with web development.
+I choose to work with productive high level languages such as Python, but also have a strong background in systems development and optimisation. I am confident with the Linux command line and am experienced with web development (mainly back end, but I'm happy to work with relatively simple front ends too)
 
 I enjoy working with creative and intelligent people, building on open software and APIs to create solid and elegant systems.
 
 
 ## Skills
 
-### Server side technologies
+### Technologies
 * Python (2 and 3), Django, Flask
 * Linux / Unix command line, GNU tools, bash, server admin
 * Task management and scheduling - RQ, celery
 * RESTful web services (Django Rest Framework)
 * SQL databases (PostgreSQL, MySQL, SQLite, Oracle)
-* AWS (S3, 
+* AWS (S3, lambdas)
 * API integrations - Twitter, GitHub, OAuth
-
-### Browser technologies
-* Javascript - AJAX, JQuery, RequireJS
-* CSS, LESS, SASS, Compass, Bootstrap
-* Cross browser concerns, progressive enhancement, accessibility
-* HTML5 features - geolocation, websockets (socket.io)
-* Responsive web development
-* Mapping toolkits (Google Maps, OpenLayers, Leaflet)
+* Front end web development - JQuery, CSS, mapping libraries, Javascript
 
 ### Tools & Techniques
 * Agile, Scrum, TDD, BDD, CI
