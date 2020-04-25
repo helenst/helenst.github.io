@@ -6,7 +6,7 @@ redirect_from: /work/cv/
 ---
 ## Profile
 
-Freelance programmer with over a decade of experience developing high quality software using a wide range of technologies.
+Freelance programmer with over two decades of experience developing high quality software using a wide range of technologies.
 
 Key projects include research software management tools for UCL, a technical refresh of the Pointbank incentives platform and building the BBC Weather website.
 
@@ -23,6 +23,7 @@ I enjoy working with creative and intelligent people, building on open software 
 * Task management and scheduling - RQ, celery
 * RESTful web services (Django Rest Framework)
 * SQL databases (PostgreSQL, MySQL, SQLite, Oracle)
+* AWS (S3, 
 * API integrations - Twitter, GitHub, OAuth
 
 ### Browser technologies
@@ -45,7 +46,29 @@ I enjoy working with creative and intelligent people, building on open software 
 
 ## Previous Work
 
-### [University College London](http://www.ucl.ac.uk/) (2015)
+### [Archivematica](https://www.archivematica.org/) (2017-2020)
+
+Worked directly with Artefactual, and separately with the Wellcome Trust on contributing improvements to this open source digital preservation workflow product.
+
+* Developed custom storage plugin for Wellcome's own storage service
+* Created AWS lambda to initiate transfers from S3
+* Improved S3 browse and transfer functionality
+* Collaborated with Artefactual to upgrade components to Python 3
+* Contributed numerous bugfixes to Archivematica
+* AWS deployments using Terraform, ECS, Docker
+* Added Django authentication plugins for Shibboleth, LDAP and OIDC / Azure
+
+### [Turing Institute](https://www.archivematica.org/) (2018)
+Django-based management system for securely managing datasets, projects and environments for data science projects
+https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud
+
+### [University College London](http://www.ucl.ac.uk/) - Cardiac Electrophysiology Web Lab (2017-18)
+In collaboration with UCL and Oxford University, a feature-complete rewrite in Django of an originally Java-based tool for running and comparing different models and protocols for cardiac cellular electrophysiology experiments
+
+### [Legalsense](https://legalsense.nl/) (2016-17)
+Django development on legal practice management software - fixing bugs and adding new features including auditing and logging tools.
+
+### [University College London](http://www.ucl.ac.uk/) - Research Software Dashboard (2015)
 
 Worked alongside [Research IT Services](https://www.ucl.ac.uk/isd/services/research-it) building [RSD Dashboard](https://dashboard.rc.ucl.ac.uk), a tool for sharing and discovering research software.
 
