@@ -11,6 +11,8 @@ I used to take a lot of [photos](https://www.flickr.com/orangebrompton).
 
 These days I do lots of painting and drawing - be warned that I often draw (tasteful) nudes so depending on your standards, [my Instagram](https://www.instagram.com/sherbertflavour/) might be considered NSFW.
 
+I sell art in my [Etsy Shop](https://www.etsy.com/shop/HelsArtyAdventures) and the same warning applies there.
+
 Sometimes I [travel](http://bikehippies.com/).
 
 I also enjoy cycling, kayaking, trail running and orienteering.
