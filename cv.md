@@ -42,7 +42,7 @@ I enjoy working with creative and intelligent people, building on open software 
 
 ### [Archivematica](https://www.archivematica.org/) - Digital Preservation (2017-2020)
 
-Archivematica is an open source digital preservation platform which allows organisations to build and customize preservation workflows. I have worked both directly with Artefactual on core functionality and with its users to create bespoke plugins and extensions.
+Archivematica is an open source digital preservation platform which allows organisations to build and customize preservation workflows. I worked both directly with Artefactual on core functionality and with some of its users to create bespoke plugins and extensions.
 
 * Worked with the [Wellcome Trust](https://wellcome.org/) to build a custom storage plugin to interface with Wellcome storage service
 * Created AWS lambda to initiate transfers from S3
@@ -55,13 +55,15 @@ Archivematica is an open source digital preservation platform which allows organ
 
 ### [Turing Institute](https://www.turing.ac.uk/) - Data Safe Haven (2018)
 
-Created a Django-based interface to a secure data research platform for data scientists.
+Built a Django-based webapp to manage secure research environments for data scientists.
+
 * <https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud>
 * <https://arxiv.org/abs/1908.08737>
 
 
 ### [University College London](http://www.ucl.ac.uk/) - Cardiac Electrophysiology Web Lab (2017-20)
-Web Lab is a platform to support the use and development of cardiac electrophysiology models and is a collaboration between Oxford, UCL and Nottingham universities. I initially carried out a feature-complete Django rewrite of the originally Java-based web interface, creating a git-based back end for model and protocol development, and later returned to add new functionality for fitting models to datasets.
+
+Web Lab is a platform to support the use and development of cardiac electrophysiology models and is a collaboration between Oxford, UCL and Nottingham universities. I initially carried out a feature-complete Django rewrite of the originally Java-based web interface, creating a git-based back end for model and protocol iteration, and later returned to add new functionality to support work around fitting models to datasets.
 
 * <https://pubmed.ncbi.nlm.nih.gov/26789753/>
 * <https://github.com/ModellingWebLab/WebLab>
@@ -69,42 +71,37 @@ Web Lab is a platform to support the use and development of cardiac electrophysi
 
 ### [Legalsense](https://legalsense.nl/) (2016-17)
 
-Worked fully remotely on Django-based legal practice management software - fixing bugs and adding new features including auditing and logging tools.
+Worked fully remotely on Django-based legal practice management software, fixing bugs and adding new features including auditing and logging tools.
 
 
 ### [University College London](http://www.ucl.ac.uk/) - Research Software Dashboard (2015-17)
 
-Worked alongside [Research IT Services](https://www.ucl.ac.uk/isd/services/research-it) building [RSD Dashboard](https://dashboard.rc.ucl.ac.uk), a tool for sharing and discovering the university's research software. This was full stack Django development of a brand new product, seen through from initial development to launch. I was the sole developer, collaborating closely with research software developers and providing fortnightly demos. After an initial 9 month contract, I returned a year later to add further improvements.
+Worked alongside [Research IT Services](https://www.ucl.ac.uk/isd/services/research-it) building [RSD Dashboard](https://dashboard.rc.ucl.ac.uk), a tool for sharing and discovering the university's research software. This was full stack Django development of a brand new product, seen through from initial development to launch. I was the sole developer, collaborating closely with research software developers and providing fortnightly demos. I originally worked on Dashboard for 9 months, returning a year later to add further improvements.
 
 <https://www.ucl.ac.uk/isd/services/research-it/research-software-development/research-software-dashboard>
 
 
 ### [Potato](https://p.ota.to/) - Back end development (2014-2015)
 
-Developing web products and prototypes using Django and Google App Engine. Working in teams with TDD, CI, RESTful design (DRF) and both SQL and NoSQL database design
-
+Developing web products and prototypes using Django and Google App Engine. Working in teams with TDD, CI, RESTful design (DRF) and both SQL and NoSQL database design.
 
 ### [Pointbank](http://pointbank.co.uk/) (2013-14)
 
-Technical refresh of Pointbank, a corporate incentives platform built in Django. My key contributions included rebuilding the front end with Sass for improved extensibility and easy rebranding, and developing an activity feed based on the [Activity Streams](http://activitystrea.ms/) standard. I was the sole developer on this platform for much of the time.
+Technical refresh of Pointbank, a corporate incentives platform built in Django. My key contributions included rebuilding the front end with Sass for improved extensibility and easy rebranding, and developing an activity feed based on the [Activity Streams](http://activitystrea.ms/) standard. I was the sole developer on this platform, working remotely and meeting the client for fortnightly demos.
 
 ### BBC Weather (2011-12)
 
-Development of the BBC Weather website, working on highly visible components, including the daily forecast tabs and dynamic weather map. Working on the front end and middle layers, I worked closely with the service layer team to define RESTful interfaces, and added optimisations for quick page load and minimal impact on back end services. After an initial three month contract I returned twice to add further improvements
+Development of the BBC Weather website, working on highly visible components, including the daily forecast tabs and dynamic weather map. Building the front end and middle layers, I worked closely with the service layer team to define RESTful interfaces, adding optimisations for quick page load and minimal impact on back end services. After an initial three month contract I returned twice to add further improvements.
 
 
-### Previous projects
+### Previous work
 
 * __[Paper Shaker](http://paper-shaker.com/)__ (by PhotoBox) (2012 – 2013) - Front end for PhotoBox's personalised card store
 * __BBC Knowledge__ (2010-11) - Nature, history and science websites including [BBC Earth](http://www.bbc.co.uk/science/earth/) science website and [Human Planet Explorer](http://www.bbc.co.uk/nature/humanplanetexplorer)
 * __Linden Lab Billing System__ (2010) - Scalable Django services for Second Life billing engine. Linux scripting / admin, TDD, pairing and peer code review.
 * __BBC Social__ (2008-9) - Prototyping social and personalisation features for the BBC platform. RESTful webservices, Twitter (OAuth) and Facebook integration.
 * __EMMA__ (2007-7) - feature development for medical management system which is now the [Qinec](http://www.qinec.com/) platform
-
-
-### Previous employment
-
-* __Volantis Systems Ltd__ (2005-6) - development of bespoke Java/J2EE/Struts mobile websites
+* __Volantis Systems Ltd__ (2005-6) - building bespoke Java/J2EE/Struts mobile websites
 * __Mintel International Group Ltd__ (2003-5) - Unix / web development with C++, XSLT, HTML, Python. Wrote a discussion / collaboration engine, implemented significant indexing improvements to inhouse search engine.
 * __Albany Software Ltd__ (2001-3) - Multi-platform C++ development of business software core components. Improved inhouse database query speed by a factor of several hundred.
 * __Gee Broadcast Systems Ltd__ (1999-2001) - C++ development of bespoke broadcast data display software for sports results systems and on screen timers.
