@@ -63,7 +63,7 @@ Built a Django-based webapp to manage secure research environments for data scie
 
 ### [University College London](http://www.ucl.ac.uk/) - Cardiac Electrophysiology Web Lab (2017-20)
 
-Web Lab is a platform to support the use and development of cardiac electrophysiology models and is a collaboration between Oxford, UCL and Nottingham universities. I initially carried out a feature-complete Django rewrite of the originally Java-based web interface, creating a git-based back end for model and protocol iteration, and later returned to add new functionality to support work around fitting models to datasets.
+Web Lab is a platform to support the use and development of cardiac electrophysiology models, developed as a collaboration between Oxford, UCL and Nottingham universities. I initially carried out a feature-complete Django rewrite of a Java-based web interface, creating a git-based backend for model and protocol iteration, and later returned to add new functionality to support work around fitting models to datasets.
 
 * <https://pubmed.ncbi.nlm.nih.gov/26789753/>
 * <https://github.com/ModellingWebLab/WebLab>
@@ -77,8 +77,6 @@ Worked fully remotely on Django-based legal practice management software, fixing
 ### [University College London](http://www.ucl.ac.uk/) - Research Software Dashboard (2015-17)
 
 Worked alongside [Research IT Services](https://www.ucl.ac.uk/isd/services/research-it) building [RSD Dashboard](https://dashboard.rc.ucl.ac.uk), a tool for sharing and discovering the university's research software. This was full stack Django development of a brand new product, seen through from initial development to launch. I was the sole developer, collaborating closely with research software developers and providing fortnightly demos. I originally worked on Dashboard for 9 months, returning a year later to add further improvements.
-
-<https://www.ucl.ac.uk/isd/services/research-it/research-software-development/research-software-dashboard>
 
 
 ### [Pointbank](http://pointbank.co.uk/) (2013-14)
