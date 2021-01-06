@@ -6,7 +6,7 @@ permalink: /work/
 
 I'm a freelance programmer based in Haslemere, Surrey, UK.
 
-I have over a decade of experience and have worked with a lot of different technologies
+I have over two decades of experience and have worked with a lot of different technologies
 and languages although I prefer tools which are both highly productive and open (e.g. Python).
 I'm excited by building new systems and websites, and enjoy working with intelligent and creative
 people who value and uphold high standards.
@@ -26,8 +26,8 @@ Please see [my full CV](/cv/) for details of past work.
 
 ## Other things
 * [Django Girls](https://djangogirls.org/) coach at multiple workshops - this involves mentoring small groups of beginner programmers.
-* Organising Django Girls workshops at [PyCon UK](https://djangogirls.org/pyconuk/) and [PyCon Namibia](https://djangogirls.org/windhoek/) - these are beginner level workshops giving around 30 women the opportunity to build their first web application using Python / Django with the guidance of an experienced coach.
-* If you want to see how I solve small coding puzzles, have a look at [my exercism.io profile](http://exercism.io/profiles/helenst/cf852db9adc04fdcadb486e03223bebc) - I also hang out on there a lot helping others improve their Python skills.
+* Organising Django Girls workshops at [PyCon UK](https://djangogirls.org/pyconuk/) and [PyCon Namibia](https://djangogirls.org/windhoek/) - these are beginner level workshops each giving around 30 women the opportunity to build their first web application using Python / Django with the guidance of an experienced coach.
+* If you want to see how I solve small coding puzzles, have a look at [my exercism.io profile](https://exercism.io/profiles/helenst)
 
 ## Personal projects
 * [Map Thing](http://mapthing.helen.st/) is a route planner which supports routing through Google or Open Street Map. I created it because I wanted to plan routes along bridleways and footpaths, something which most online mappers don't support. I use it frequently when planning runs and bike rides.
