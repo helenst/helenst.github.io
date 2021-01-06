@@ -40,7 +40,7 @@ I enjoy working with creative and intelligent people, building on open software 
 
 ## Previous Work
 
-<sub><sup>(Please note that some of these time periods are not continuous - I often come back to clients to add new functionality!)</sub></sup>
+<sub><sup>(Please note that some of these time periods are not continuous - I often come back to clients to add new functionality!)</sup></sub>
 
 ### [Archivematica](https://www.archivematica.org/) (2017-2020)
 
