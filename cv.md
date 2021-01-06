@@ -50,21 +50,21 @@ Archivematica is an open source digital preservation platform which allows organ
 * Collaborated with Artefactual to upgrade components to Python 3
 * Contributed numerous bugfixes to Archivematica
 * AWS deployments using Terraform, ECS, Docker
-* Worked on Archivematica components of JISC RDSS (now [https://www.jisc.ac.uk/preservation])
+* Worked on Archivematica components of JISC RDSS (now https://www.jisc.ac.uk/preservation)
 * Added Django authentication plugins for Shibboleth, LDAP and OIDC / Azure
 
 ### [Turing Institute](https://www.turing.ac.uk/) (2018)
 
 Created a Django-based interface to  a secure data research platform for data scientists.
-https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud
-https://arxiv.org/abs/1908.08737
+* https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud
+* https://arxiv.org/abs/1908.08737
 
 
 ### [University College London](http://www.ucl.ac.uk/) - Cardiac Electrophysiology Web Lab (2017-20)
 Web Lab is a platform to support the use and development of cardiac electrophysiology models and is a collaboration between Oxford, UCL and Nottingham universities. I initially carried out a feature-complete Django rewrite of the originally Java-based web interface, creating a git-based back end for model and protocol development, and later returned to add new functionality for fitting models to datasets.
 
-https://pubmed.ncbi.nlm.nih.gov/26789753/
-https://github.com/ModellingWebLab/WebLab
+* https://pubmed.ncbi.nlm.nih.gov/26789753/
+* https://github.com/ModellingWebLab/WebLab
 
 
 ### [Legalsense](https://legalsense.nl/) (2016-17)
