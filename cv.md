@@ -35,80 +35,70 @@ I enjoy working with creative and intelligent people, building on open software 
 * Sphinx/RST documentation
 * Source control - git, mercurial, Subversion
 * Deployment - fabric, ansible, puppet
+* Cloud tech: docker, docker compose, AWS.
 
 
 ## Previous Work
 
+<sub><sup>(Please note that some of these time periods are not continuous - I often come back to clients to add new functionality!)</sub></sup>
+
 ### [Archivematica](https://www.archivematica.org/) (2017-2020)
 
-Worked directly with Artefactual, and separately with the Wellcome Trust on contributing improvements to this open source digital preservation workflow product.
+Archivematica is an open source digital preservation platform which allows organisations to build and customize preservation workflows. I have worked both directly with Artefactual on core functionality and with its users to create bespoke plugins and extensions.
 
-* Developed custom storage plugin for Wellcome's own storage service
+* Worked with the [Wellcome Trust](https://wellcome.org/) to build a custom storage plugin to interface with Wellcome storage service
 * Created AWS lambda to initiate transfers from S3
 * Improved S3 browse and transfer functionality
 * Collaborated with Artefactual to upgrade components to Python 3
 * Contributed numerous bugfixes to Archivematica
 * AWS deployments using Terraform, ECS, Docker
+* Worked on Archivematica components of JISC RDSS (now https://www.jisc.ac.uk/preservation)
 * Added Django authentication plugins for Shibboleth, LDAP and OIDC / Azure
 
-### [Turing Institute](https://www.archivematica.org/) (2018)
-Django-based management system for securely managing datasets, projects and environments for data science projects
-https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud
+### [Turing Institute](https://www.turing.ac.uk/) (2018)
 
-### [University College London](http://www.ucl.ac.uk/) - Cardiac Electrophysiology Web Lab (2017-18)
-In collaboration with UCL and Oxford University, a feature-complete rewrite in Django of an originally Java-based tool for running and comparing different models and protocols for cardiac cellular electrophysiology experiments
+Created a Django-based interface to  a secure data research platform for data scientists.
+https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud
+https://arxiv.org/abs/1908.08737
+
+
+### [University College London](http://www.ucl.ac.uk/) - Cardiac Electrophysiology Web Lab (2017-20)
+Web Lab is a platform to support the use and development of cardiac electrophysiology models and is a collaboration between Oxford, UCL and Nottingham universities. I initially carried out a feature-complete Django rewrite of the originally Java-based web interface, creating a git-based back end for model and protocol development, and later returned to add new functionality for fitting models to datasets.
+
+https://pubmed.ncbi.nlm.nih.gov/26789753/
+https://github.com/ModellingWebLab/WebLab
+
 
 ### [Legalsense](https://legalsense.nl/) (2016-17)
-Django development on legal practice management software - fixing bugs and adding new features including auditing and logging tools.
+
+Worked fully remotely on Django-based legal practice management software - fixing bugs and adding new features including auditing and logging tools.
+
 
 ### [University College London](http://www.ucl.ac.uk/) - Research Software Dashboard (2015)
 
-Worked alongside [Research IT Services](https://www.ucl.ac.uk/isd/services/research-it) building [RSD Dashboard](https://dashboard.rc.ucl.ac.uk), a tool for sharing and discovering research software.
+Worked alongside [Research IT Services](https://www.ucl.ac.uk/isd/services/research-it) building [RSD Dashboard](https://dashboard.rc.ucl.ac.uk), a tool for sharing and discovering the university's research software. This was full stack Django development of a brand new product, seen through from initial development to launch. I was the sole developer, collaborating closely with research software developers and providing fortnightly demos. After an initial 9 month contract, I returned a year later to add further improvements.
 
-* Full stack Django development of new product
-* Integrations with GitHub, BitBucket
-* Shibboleth (SAML) authentication
-* Testing with pytest / webtest / selenium
-* Task queues with redis / rq / rqscheduler
-* Working with Oracle databases
-* Providing and consuming REST APIs
-* Puppet deployment
+https://www.ucl.ac.uk/isd/services/research-it/research-software-development/research-software-dashboard
+
 
 ### [Potato](https://p.ota.to/) - Back end development (2014-2015)
 
-Building new products and improving existing ones using Django and App Engine.
-
-* Optimisation and performance enhancements
-* TDD, continuous integration
-* RESTful API design / implementation (Django REST Framework)
-* both SQL and NoSQL database design
+Developed new products and improved existing ones using Django and Google App Engine. Working in teams with TDD, CI, RESTful design (DRF) and both SQL and NoSQL database design
 
 ### [Pointbank](http://pointbank.co.uk/) (2013-14)
 
-Technical refresh of Pointbank, a corporate incentives platform built in Django.
+Technical refresh of Pointbank, a corporate incentives platform built in Django. My key contributions included rebuilding the front end with Sass for improved extensibility and easy rebranding, and developing an activity feed based on the [Activity Streams](http://activitystrea.ms/) standard. I was the sole developer on this platform for much of the time.
 
-* Architected and developed an activity feed based on [Activity Streams](http://activitystrea.ms/) standard.
-* Rebuilt the front end using Sass for improved extensibility
-* Built custom authentication backend for bespoke client integration
-* Key technologies: Django, Python, Celery, PostgreSQL
+### BBC Weather (2011-12)
 
-
-### [BBC Weather](http://www.bbc.co.uk/weather/2647365) (2011-12)
-
-Development of the BBC Weather website. Initial three month contract, returned twice for further work.
-
-* [Weather Map](http://www.bbc.co.uk/weather/2643743#maps): Integrated existing OpenLayers map component, added successful optimizations to improve performance.
-* Daily forecast: tab switching, CSS3 animations, Ajax loading and caching of detailed hourly forecasts
-* [Tide tables](http://www.bbc.co.uk/weather/coast_and_sea/tide_tables): progressively enhanced hierarchical page featuring High Charts graphs
-* Worked closely with service layer team to define web service interfaces
-* BDD (Cucumber / Capybara), TDD
+Development of the BBC Weather website, working on highly visible components, including the daily forecast tabs and dynamic weather map. Working on the front end and middle layers, I worked closely with the service layer team to define RESTful interfaces, and added optimisations for quick page load and minimal impact on back end services. After an initial three month contract I returned twice to add further improvements
 
 
 ### Previous projects
 
 * __[Paper Shaker](http://paper-shaker.com/)__ (by PhotoBox) (2012 – 2013) - Front end for PhotoBox's personalised card store
 * __BBC Knowledge__ (2010-11) - Nature, history and science websites including [BBC Earth](http://www.bbc.co.uk/science/earth/) science website and [Human Planet Explorer](http://www.bbc.co.uk/nature/humanplanetexplorer)
-* __Linden Lab International Billing System__ (2010) - Scalable Django services for Second Life billing engine. Linux scripting / admin, TDD, pairing and peer code review.
+* __Linden Lab Billing System__ (2010) - Scalable Django services for Second Life billing engine. Linux scripting / admin, TDD, pairing and peer code review.
 * __BBC Social__ (2008-9) - Prototyping social and personalisation features for the BBC platform. RESTful webservices, Twitter (OAuth) and Facebook integration.
 * __EMMA__ (2007-7) - feature development for medical management system which is now the [Qinec](http://www.qinec.com/) platform
 
@@ -121,16 +111,11 @@ Development of the BBC Weather website. Initial three month contract, returned t
 * __Gee Broadcast Systems Ltd__ (1999-2001) - C++ development of bespoke broadcast data display software for sports results systems and on screen timers.
 
 
-## Personal Projects
-
-* [Map Thing](http://mapthing.helen.st/) is a route planning tool built on Google Maps and Open Street Map APIs. It displays distance and elevation information and allows for routes to be edited and routing methods to be changed.
-
-
 ## Open Source / Community
 
-* Contributions to various open source projects - please see [my Github profile](https://github.com/helenst) for details.
-* Volunteer for [Django Girls](https://djangogirls.org), a series of workshops aimed at encouraging more women to learn to code. I contribute to the tutorial and website, and both organise and coach at events.
-* I speak regularly at conferences all over the world, on various topics. Please see [my work page](http://helen.st/work/) for full details.
+* I have contributed to various open source projects - please see [my Github profile](https://github.com/helenst) for details.
+* Volunteered for [Django Girls](https://djangogirls.org), a series of workshops aimed at encouraging more women to learn to code. I contributed to the tutorial and website, organised workshops at PyCon Namibia and PyCon UK and coached at several events.
+* I have spoken at conferences all over the world, on various topics. Please see [my work page](http://helen.st/work/) for full details.
 
  
 ## Education
