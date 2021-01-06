@@ -40,7 +40,7 @@ I enjoy working with creative and intelligent people, building on open software 
 
 ## Previous Work
 
-### [Archivematica](https://www.archivematica.org/) (2017-2020)
+### [Archivematica](https://www.archivematica.org/) - Digital Preservation (2017-2020)
 
 Archivematica is an open source digital preservation platform which allows organisations to build and customize preservation workflows. I have worked both directly with Artefactual on core functionality and with its users to create bespoke plugins and extensions.
 
@@ -53,9 +53,9 @@ Archivematica is an open source digital preservation platform which allows organ
 * Worked on Archivematica components of JISC RDSS (now https://www.jisc.ac.uk/preservation)
 * Added Django authentication plugins for Shibboleth, LDAP and OIDC / Azure
 
-### [Turing Institute](https://www.turing.ac.uk/) (2018)
+### [Turing Institute](https://www.turing.ac.uk/) - Data Safe Haven (2018)
 
-Created a Django-based interface to  a secure data research platform for data scientists.
+Created a Django-based interface to a secure data research platform for data scientists.
 * https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud
 * https://arxiv.org/abs/1908.08737
 
@@ -72,11 +72,11 @@ Web Lab is a platform to support the use and development of cardiac electrophysi
 Worked fully remotely on Django-based legal practice management software - fixing bugs and adding new features including auditing and logging tools.
 
 
-### [University College London](http://www.ucl.ac.uk/) - Research Software Dashboard (2015)
+### [University College London](http://www.ucl.ac.uk/) - Research Software Dashboard (2015-17)
 
 Worked alongside [Research IT Services](https://www.ucl.ac.uk/isd/services/research-it) building [RSD Dashboard](https://dashboard.rc.ucl.ac.uk), a tool for sharing and discovering the university's research software. This was full stack Django development of a brand new product, seen through from initial development to launch. I was the sole developer, collaborating closely with research software developers and providing fortnightly demos. After an initial 9 month contract, I returned a year later to add further improvements.
 
-https://www.ucl.ac.uk/isd/services/research-it/research-software-development/research-software-dashboard
+<https://www.ucl.ac.uk/isd/services/research-it/research-software-development/research-software-dashboard>
 
 
 ### [Potato](https://p.ota.to/) - Back end development (2014-2015)
