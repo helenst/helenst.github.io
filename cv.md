@@ -40,8 +40,6 @@ I enjoy working with creative and intelligent people, building on open software 
 
 ## Previous Work
 
-<sub><sup>(Please note that some of these time periods are not continuous - I often come back to clients to add new functionality!)</sup></sub>
-
 ### [Archivematica](https://www.archivematica.org/) (2017-2020)
 
 Archivematica is an open source digital preservation platform which allows organisations to build and customize preservation workflows. I have worked both directly with Artefactual on core functionality and with its users to create bespoke plugins and extensions.
@@ -52,7 +50,7 @@ Archivematica is an open source digital preservation platform which allows organ
 * Collaborated with Artefactual to upgrade components to Python 3
 * Contributed numerous bugfixes to Archivematica
 * AWS deployments using Terraform, ECS, Docker
-* Worked on Archivematica components of JISC RDSS (now https://www.jisc.ac.uk/preservation)
+* Worked on Archivematica components of JISC RDSS (now [https://www.jisc.ac.uk/preservation])
 * Added Django authentication plugins for Shibboleth, LDAP and OIDC / Azure
 
 ### [Turing Institute](https://www.turing.ac.uk/) (2018)
