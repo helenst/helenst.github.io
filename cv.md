@@ -81,23 +81,21 @@ Worked alongside [Research IT Services](https://www.ucl.ac.uk/isd/services/resea
 <https://www.ucl.ac.uk/isd/services/research-it/research-software-development/research-software-dashboard>
 
 
-### [Potato](https://p.ota.to/) - Back end development (2014-2015)
-
-Developing web products and prototypes using Django and Google App Engine. Working in teams with TDD, CI, RESTful design (DRF) and both SQL and NoSQL database design.
-
 ### [Pointbank](http://pointbank.co.uk/) (2013-14)
 
 Technical refresh of Pointbank, a corporate incentives platform built in Django. My key contributions included rebuilding the front end with Sass for improved extensibility and easy rebranding, and developing an activity feed based on the [Activity Streams](http://activitystrea.ms/) standard. I was the sole developer on this platform, working remotely and meeting the client for fortnightly demos.
 
+
 ### BBC Weather (2011-12)
 
-Development of the BBC Weather website, working on highly visible components, including the daily forecast tabs and dynamic weather map. Building the front end and middle layers, I worked closely with the service layer team to define RESTful interfaces, adding optimisations for quick page load and minimal impact on back end services. After an initial three month contract I returned twice to add further improvements.
+Development of the BBC Weather website, working on highly visible components including the daily forecast tabs and dynamic weather maps. Building the front end and middle layers, I worked closely with the service layer team to define RESTful interfaces, adding optimisations for quick page load and minimal impact on back end services. After an initial three month contract I returned twice to add further improvements.
 
 
 ### Previous work
 
-* __[Paper Shaker](http://paper-shaker.com/)__ (by PhotoBox) (2012 – 2013) - Front end for PhotoBox's personalised card store
-* __BBC Knowledge__ (2010-11) - Nature, history and science websites including [BBC Earth](http://www.bbc.co.uk/science/earth/) science website and [Human Planet Explorer](http://www.bbc.co.uk/nature/humanplanetexplorer)
+* __[Potato](https://p.ota.to/)__ (2014-2015) - Back end development using Django and Google App Engine 
+* __Paper Shaker__ by PhotoBox (2012–2013) - Front end for PhotoBox's personalised card store
+* __BBC Knowledge__ (2010-11) - Nature, history and science websites.
 * __Linden Lab Billing System__ (2010) - Scalable Django services for Second Life billing engine. Linux scripting / admin, TDD, pairing and peer code review.
 * __BBC Social__ (2008-9) - Prototyping social and personalisation features for the BBC platform. RESTful webservices, Twitter (OAuth) and Facebook integration.
 * __EMMA__ (2007-7) - feature development for medical management system which is now the [Qinec](http://www.qinec.com/) platform
