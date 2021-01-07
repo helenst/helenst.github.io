@@ -8,7 +8,7 @@ I'm a freelance programmer based in Haslemere, Surrey, UK.
 
 I have over two decades of experience across a range of languages and technologies and enjoy working with intelligent and creative people who value and uphold high standards. I have extensive experience with Python in particular but am happy to work with whatever is the best tool for the job.
 
-My work in recent years has mostly been (a) tools which support scientific research (b) digital preservation (Archivematica) and projects in either of these categories are of particular appeal to me.
+My work in recent years has mostly been (a) tools which support scientific research (b) digital preservation (Archivematica). Projects in either of these categories are of particular appeal to me.
 
 I'm usually open to new and interesting opportunities so do please get in touch if you have something I may be able to help with.
 
