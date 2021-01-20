@@ -8,11 +8,9 @@ redirect_from: /work/cv/
 
 Freelance programmer with over two decades of experience developing high quality software using a wide range of technologies.
 
-Key projects include work on the Archivematica digital preservation platform, research software tools for UCL, a technical refresh of the Pointbank incentives platform and building the BBC Weather website.
+I have extensive experience with Python in particular but am happy to work with whatever is the best tool for the job. I have a strong background in systems development and optimisation. I am confident with Linux environments and am experienced with web development (mainly back end).
 
-I choose to work with productive high level languages such as Python, but also have a strong background in systems development and optimisation. I am confident with the Linux command line and am experienced with web development (mainly back end, but I'm happy to work with relatively simple front ends too)
-
-I enjoy working with creative and intelligent people, building on open software and APIs to create solid and elegant systems.
+My most recent projects have been with universities and knowledge based institutions, developing research tools and digital preservation systems, however I am open to opportunities of all kinds. I enjoy working with intelligent and thoughtful people who value and uphold high standards and I appreciate the opportunity for my work to have an impact.
 
 
 ## Skills
